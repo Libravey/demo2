@@ -1,0 +1,14 @@
+{
+    "name": "libray/demo2",
+    "description": "a test for composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yaoliyong",
+            "email": "2962360744@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
